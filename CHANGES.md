@@ -1,4 +1,4 @@
-## Unreleased
+## 0.2.4-st1 - 20 Sep 2017
 
 * Change dependency on Clojure to 1.9.0-beta1 and support clojure.spec.alpha ns.
 
