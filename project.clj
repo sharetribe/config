@@ -1,4 +1,4 @@
-(defproject org.sharetribe/config "0.2.4-st1-SNAPSHOT"
+(defproject org.sharetribe/config "0.2.4-st1"
   :description "Configure a Clojure system with EDN files"
   :url "https://github.com/sharetribe/config"
   :license {:name "Apache Sofware License 2.0"
